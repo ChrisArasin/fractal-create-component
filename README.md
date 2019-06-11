@@ -4,7 +4,7 @@ Custom [Fractal](https://fractal.build/) command that Creates a new component di
 ## Setup
 In `fractal.js`, run `init` function, passing fractal object:
 ```
-const fractalCreateComponent = require('./fractal-create-component');
+const fractalCreateComponent = require('fractal-create-component');
 fractalCreateComponent.init(fractal);
 ```
 
