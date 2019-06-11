@@ -1,6 +1,8 @@
 # fractal-create-component
 Custom [Fractal](https://fractal.build/) command that Creates a new component directory and files.
 
+More on Fractal commands here: https://fractal.build/guide/cli/custom-commands.html.
+
 ## Setup
 In `fractal.js`, run `init` function, passing fractal object:
 ```
